@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-brightgreen.svg)
 ![CUDA Acceleration](https://img.shields.io/badge/CUDA-Supported-green.svg)
 ![Architecture](https://img.shields.io/badge/Architecture-Distributed%20FastAPI%20%2F%20Redis-red.svg)
+[![DOI](https://zenodo.org/badge/1307337362.svg)](https://doi.org/10.5281/zenodo.21468215)
 
 **Hilbert Space Spinor Container (HSC)** is a high-performance, distributed numerical emulation framework for chiral quasiparticle wave-packet dynamics and quasi-quantum state evolution. 
 
